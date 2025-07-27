@@ -1,0 +1,164 @@
+Build an advanced, futuristic animated website for SNR Automation — a visionary AI-powered digital marketing and personal branding startup, founded by S.N. Rathnadevi (also the Founder/CEO of AURBI). The brand philosophy is rooted in combining soulful identity and scalable automation. The site should look like a seamless blend of design, technology, and emotion — sleek, premium, dynamic, and soul-aligned.  add soft voice in robot tour (add robot icon or robot animated photo). more future design and future dynamically design, and theme needed. 
+
+🧠 OVERALL CONCEPT
+Theme: Futuristic + Soulful + Scalable
+
+Color Palette: Deep matte black/dark violet background, with gold, white, and neon violet accents.
+
+Typography: Modern serif for impactful headlines (like Playfair Display), geometric sans-serif for clean readability (like Inter or Sora).
+
+Feel: Interactive storytelling, AI-powered elegance, glowing minimalism, tech-motion harmony.
+
+🔥 HERO SECTION
+Background:
+
+Subtle animated light grid or digital wave motion (inspired by elevation or particle fields).
+
+Parallax motion for stars, points, grid layers.
+
+Centerpiece:
+
+Large SNR golden logo with animated 3D shine.
+
+Tagline: “Shaping Stories into Scalable Legacy” in animated letter-by-letter reveal.
+
+Robot Mascot (referenced image):
+
+3D robot with floating animation, slightly tilting and blinking glowing blue pixel eyes.
+
+Idle motion: breathing, blinking, slow hover.
+
+Hover interaction: eye glint, bounce, arm lift, or wave.
+
+CTA Buttons:
+
+“Start Your Brand Journey” / “Explore Services”
+
+Stylish micro-animations on hover (glow, hover-lift)
+
+🚀 SCROLL INTERACTIONS (Whole Site)
+Scroll-triggered section reveals with slide-in effects, fade and blur, and SVG path animations.
+
+Parallax scrolling for section background layers.
+
+Page transitions powered by Framer Motion or GSAP.
+
+🪐 FEATURED TOOLS & SERVICES SECTION (Orbital UI)
+Recreate the orbital animation as seen in reference image:
+
+Two orbit rings, inner and outer, rotating at different speeds.
+
+Each icon (Python, Zapier, Webflow, Notion, DaVinci Resolve, After Effects, Unreal Engine, Meta Ads, Figma, C++, Make, Canva, Blender) rotates smoothly.
+
+On hover: pause and tooltip info, e.g., “Python – Core Automation” or “Notion – System Design”.
+
+Add filter/toggle between categories:
+
+Automation Tools
+
+Creative Tools
+
+Marketing Tools
+
+🎯 FOUR DIVISIONS - MODULAR SECTION
+Four cards or panels in a quad layout or vertical slider:
+
+SNR Automation: Workflow systems, Zapier bots, AI chat tools.
+
+SNR Studio: Video production, editing, post-production, storytelling design.
+
+SNR Academy: Courses, webinars, 1-on-1s, certifications on branding, AI tools.
+
+SNR Stack: Digital stack builds, funnel setup, marketing automation.
+
+Hover: glowing frame, tooltips, bounce animation.
+
+Click: smooth expansion or modal reveal with embedded case studies or demos.
+
+🛠 SERVICES SECTION (With Icons + Micro Interactions)
+Each service shown as a card with glowing animated border, Lottie icons, short title and expandable description:
+
+Personal Branding
+
+Organic Growth
+
+AI Automation
+
+Brand Marketing
+
+Content Marketing
+
+Marketing Consulting
+
+Brand Consulting
+
+Business Consulting
+
+Social Media Marketing
+
+Hover Effects: Card scales slightly, border pulses, reveal quote or micro-case-study on click.
+
+📽️ FEATURED CASE STUDIES / PROJECTS
+A slider/gallery showing actual client transformations.
+
+Before → After transitions (via content/website screenshots).
+
+Include:
+
+Project name
+
+Goals
+
+What was automated
+
+Results (followers, revenue, reach)
+
+🧬 BRAND PHILOSOPHY SECTION (Animated Storytelling)
+A scrolling animated story that illustrates:
+
+“Aura = Who You Are”
+
+“Orbit = How Far You Go”
+
+“AURBI = Scaled Identity”
+
+Blend symbolic illustrations + keywords appearing as you scroll.
+
+Section ends with CTA: "Let us build your digital soul."
+
+📍CONTACT SECTION
+Clean, beautiful form with floating labels and animated fields.
+
+Toggle: Remote OR In-Person (Karur)
+
+Call to Action:
+
+“DM us to transform your legacy. Ready to scale your story?”
+
+Include:
+
+📞 +91 8946084672
+
+✉️ rathnadevisn@gmail.com
+
+📍 Karur, Tamil Nadu
+
+💬 Instagram: @snr_ai_automation
+
+🧾 FOOTER
+Subtle glowing footer, with link categories:
+
+About, Divisions, Services, Contact
+
+Copyright 2025 © SNR Automation
+
+Powered by AURBI
+
+📱 RESPONSIVE DESIGN & PWA OPTIMIZATION
+Mobile-first layout with collapsible menus.
+
+Robot animation scaled for mobile with lighter idle effects.
+
+Installable as Progressive Web App (PWA) with icon and splash.
+make sure that it is like man-made and AI made.
+ it should look like man-made, and no one should identify this as AI made, understand. make that.  
